@@ -58,7 +58,7 @@ def save_records(records):
         pprint(record)
 
         with open(record_path, 'w') as f:
-            json.dump(record, f, indent = 4, ensure_ascii=False)
+            json.dump(record, f, indent = 4, ensure_ascii=False, sort_keys = True)
 
 
 
