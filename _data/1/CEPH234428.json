@@ -1,9 +1,9 @@
 {
+    "address": "1401 MAGNOLIA AVE",
+    "case_num": "CEPH234428",
     "description": "roaches, bed bugs",
     "district": 1,
-    "address": "1401 MAGNOLIA AVE",
     "last_insp_date": null,
     "last_insp_type": null,
-    "start_date": "08/29/2016",
-    "case_num": "CEPH234428"
+    "start_date": "08/29/2016"
 }

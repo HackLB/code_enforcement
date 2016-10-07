@@ -1,9 +1,9 @@
 {
+    "address": "1276 CHESTNUT AVE",
+    "case_num": "CEPH233979",
     "description": "SMOKE DETECTOR/CARBON MONOXIDE ALARM, LEAK UNDER SINK",
     "district": 1,
-    "address": "1276 CHESTNUT AVE",
     "last_insp_date": "08/08/2016",
     "last_insp_type": "Initial Inspection",
-    "start_date": "08/09/2016",
-    "case_num": "CEPH233979"
+    "start_date": "08/09/2016"
 }

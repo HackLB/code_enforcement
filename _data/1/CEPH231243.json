@@ -1,9 +1,9 @@
 {
+    "address": "1155 CEDAR AVE",
+    "case_num": "CEPH231243",
     "description": "SMOKE DETECTOR, CARBON MONOXIDE, PEELING PAINT, MOLD (BEDROOM), DETERIORATED WINDOWS",
     "district": 1,
-    "address": "1155 CEDAR AVE",
     "last_insp_date": "08/17/2016",
     "last_insp_type": "Follow-up Site Inspection - 1st Interim",
-    "start_date": "05/16/2016",
-    "case_num": "CEPH231243"
+    "start_date": "05/16/2016"
 }

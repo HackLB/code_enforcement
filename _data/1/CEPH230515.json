@@ -1,9 +1,9 @@
 {
+    "address": "1602 CEDAR AVE",
+    "case_num": "CEPH230515",
     "description": "Non-working carbon monoxide alarm, plumbing problem, peeling paint and broken tiles.",
     "district": 1,
-    "address": "1602 CEDAR AVE",
     "last_insp_date": "09/21/2016",
     "last_insp_type": "Pre-Citation Inspection",
-    "start_date": "04/26/2016",
-    "case_num": "CEPH230515"
+    "start_date": "04/26/2016"
 }

@@ -1,9 +1,9 @@
 {
+    "address": "1726 HENDERSON AVE",
+    "case_num": "CEPH230779",
     "description": "Non-working smoke detector and no carbon monoxide.",
     "district": 1,
-    "address": "1726 HENDERSON AVE",
     "last_insp_date": "04/18/2016",
     "last_insp_type": "Initial Inspection",
-    "start_date": "05/03/2016",
-    "case_num": "CEPH230779"
+    "start_date": "05/03/2016"
 }

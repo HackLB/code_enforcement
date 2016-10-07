@@ -1,9 +1,9 @@
 {
+    "address": "728 LIME AVE",
+    "case_num": "CERS234512",
     "description": "GARAGE INSPECTION CERTIFICATE",
     "district": 1,
-    "address": "728 LIME AVE",
     "last_insp_date": null,
     "last_insp_type": null,
-    "start_date": "08/31/2016",
-    "case_num": "CERS234512"
+    "start_date": "08/31/2016"
 }

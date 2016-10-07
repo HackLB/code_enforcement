@@ -1,9 +1,9 @@
 {
+    "address": "1740 LONG BEACH BLVD",
+    "case_num": "CEVB230106",
     "description": "VACANT COMMERCIAL",
     "district": 1,
-    "address": "1740 LONG BEACH BLVD",
     "last_insp_date": "05/25/2016",
     "last_insp_type": "Reinspection",
-    "start_date": "04/12/2016",
-    "case_num": "CEVB230106"
+    "start_date": "04/12/2016"
 }

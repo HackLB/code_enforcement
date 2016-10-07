@@ -1,9 +1,9 @@
 {
+    "address": "735 CEDAR AVE",
+    "case_num": "CERS234561",
     "description": "GARAGE INSPECTION CERTIFICATE",
     "district": 1,
-    "address": "735 CEDAR AVE",
     "last_insp_date": null,
     "last_insp_type": null,
-    "start_date": "09/02/2016",
-    "case_num": "CERS234561"
+    "start_date": "09/02/2016"
 }

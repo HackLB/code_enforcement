@@ -1,9 +1,9 @@
 {
+    "address": "317 14TH ST",
+    "case_num": "CEHC221966",
     "description": null,
     "district": 1,
-    "address": "317 14TH ST",
     "last_insp_date": "09/20/2016",
     "last_insp_type": "Reinspection",
-    "start_date": "07/02/2015",
-    "case_num": "CEHC221966"
+    "start_date": "07/02/2015"
 }

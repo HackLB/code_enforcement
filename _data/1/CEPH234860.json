@@ -1,9 +1,9 @@
 {
+    "address": "1028 CHESTNUT AVE",
+    "case_num": "CEPH234860",
     "description": "SMOKE DETECTORS, ROACHES, CABINETS ",
     "district": 1,
-    "address": "1028 CHESTNUT AVE",
     "last_insp_date": null,
     "last_insp_type": null,
-    "start_date": "09/16/2016",
-    "case_num": "CEPH234860"
+    "start_date": "09/16/2016"
 }

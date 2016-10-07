@@ -1,9 +1,9 @@
 {
+    "address": "644 5TH ST",
+    "case_num": "CEPH234326",
     "description": "PEELING PAINT, FOUNDATION VENTS, SECURITY LIGHTS, WINDOW SCREENS, MISSING GARAGE DOOR",
     "district": 1,
-    "address": "644 5TH ST",
     "last_insp_date": null,
     "last_insp_type": null,
-    "start_date": "08/24/2016",
-    "case_num": "CEPH234326"
+    "start_date": "08/24/2016"
 }

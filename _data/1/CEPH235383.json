@@ -1,9 +1,9 @@
 {
+    "address": "1101 ELM AVE",
+    "case_num": "CEPH235383",
     "description": "RODENTS, ROACHES, BEDBUGS, LEAK AT BATHROOM CEILING ",
     "district": 1,
-    "address": "1101 ELM AVE",
     "last_insp_date": "10/04/2016",
     "last_insp_type": "Initial Inspection",
-    "start_date": "10/06/2016",
-    "case_num": "CEPH235383"
+    "start_date": "10/06/2016"
 }

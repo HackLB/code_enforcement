@@ -1,9 +1,9 @@
 {
+    "address": "220 PACIFIC COAST HWY",
+    "case_num": "LE234886",
     "description": "unlicensed auto repair",
     "district": 1,
-    "address": "220 PACIFIC COAST HWY",
     "last_insp_date": null,
     "last_insp_type": null,
-    "start_date": "09/19/2016",
-    "case_num": "LE234886"
+    "start_date": "09/19/2016"
 }

@@ -1,9 +1,9 @@
 {
+    "address": "1575 LINDEN AVE",
+    "case_num": "CEHC234630",
     "description": "broken entry door",
     "district": 1,
-    "address": "1575 LINDEN AVE",
     "last_insp_date": "08/29/2016",
     "last_insp_type": "Initial Inspection",
-    "start_date": "09/07/2016",
-    "case_num": "CEHC234630"
+    "start_date": "09/07/2016"
 }

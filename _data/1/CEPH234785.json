@@ -1,9 +1,9 @@
 {
+    "address": "1409 MAGNOLIA AVE",
+    "case_num": "CEPH234785",
     "description": null,
     "district": 1,
-    "address": "1409 MAGNOLIA AVE",
     "last_insp_date": "09/13/2016",
     "last_insp_type": "Initial Inspection",
-    "start_date": "09/14/2016",
-    "case_num": "CEPH234785"
+    "start_date": "09/14/2016"
 }

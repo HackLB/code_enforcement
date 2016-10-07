@@ -1,9 +1,9 @@
 {
+    "address": "1450 LOCUST AVE",
+    "case_num": "CERS234542",
     "description": "GARAGE EXEMPTION CERTIFICATE",
     "district": 1,
-    "address": "1450 LOCUST AVE",
     "last_insp_date": null,
     "last_insp_type": null,
-    "start_date": "09/01/2016",
-    "case_num": "CERS234542"
+    "start_date": "09/01/2016"
 }

@@ -1,9 +1,9 @@
 {
+    "address": "225 6TH ST",
+    "case_num": "CERS234648",
     "description": "GARAGE EXEMPTION CERTIFICATE",
     "district": 1,
-    "address": "225 6TH ST",
     "last_insp_date": null,
     "last_insp_type": null,
-    "start_date": "09/08/2016",
-    "case_num": "CERS234648"
+    "start_date": "09/08/2016"
 }

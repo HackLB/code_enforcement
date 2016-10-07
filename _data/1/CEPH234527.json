@@ -1,9 +1,9 @@
 {
+    "address": "435 DAISY AVE",
+    "case_num": "CEPH234527",
     "description": "SMOKE DETECTOR, ROACHES, RODENTS",
     "district": 1,
-    "address": "435 DAISY AVE",
     "last_insp_date": "08/30/2016",
     "last_insp_type": "Initial Inspection",
-    "start_date": "09/01/2016",
-    "case_num": "CEPH234527"
+    "start_date": "09/01/2016"
 }

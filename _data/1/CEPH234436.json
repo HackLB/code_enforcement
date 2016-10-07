@@ -1,9 +1,9 @@
 {
+    "address": "1401 MAGNOLIA AVE",
+    "case_num": "CEPH234436",
     "description": null,
     "district": 1,
-    "address": "1401 MAGNOLIA AVE",
     "last_insp_date": "08/22/2016",
     "last_insp_type": "Initial Inspection",
-    "start_date": "08/29/2016",
-    "case_num": "CEPH234436"
+    "start_date": "08/29/2016"
 }

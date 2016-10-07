@@ -1,9 +1,9 @@
 {
+    "address": "613 7TH ST",
+    "case_num": "CEPH234787",
     "description": "ROACHES, MOLD, FLOORING",
     "district": 1,
-    "address": "613 7TH ST",
     "last_insp_date": "09/12/2016",
     "last_insp_type": "Initial Inspection",
-    "start_date": "09/14/2016",
-    "case_num": "CEPH234787"
+    "start_date": "09/14/2016"
 }

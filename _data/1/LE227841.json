@@ -1,9 +1,9 @@
 {
+    "address": "147 6TH ST",
+    "case_num": "LE227841",
     "description": "found op without a license issued nov 02/17/16",
     "district": 1,
-    "address": "147 6TH ST",
     "last_insp_date": null,
     "last_insp_type": null,
-    "start_date": "02/18/2016",
-    "case_num": "LE227841"
+    "start_date": "02/18/2016"
 }

@@ -1,9 +1,9 @@
 {
+    "address": "1565 LINDEN AVE",
+    "case_num": "CEFR234998",
     "description": "Foreclosure registry property.",
     "district": 1,
-    "address": "1565 LINDEN AVE",
     "last_insp_date": "09/27/2016",
     "last_insp_type": "Initial Inspection",
-    "start_date": "09/21/2016",
-    "case_num": "CEFR234998"
+    "start_date": "09/21/2016"
 }
