@@ -3,7 +3,7 @@
     "case_num": "CEPH235429",
     "description": "PLUMBING LEAK, PEELING PAINT.",
     "district": 8,
-    "last_insp_date": null,
-    "last_insp_type": null,
+    "last_insp_date": "10/07/2016",
+    "last_insp_type": "Initial Inspection",
     "start_date": "10/07/2016"
 }
