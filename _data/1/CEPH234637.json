@@ -3,7 +3,7 @@
     "case_num": "CEPH234637",
     "description": "SMOKE DETECTOR, MOLD, HEATER",
     "district": 1,
-    "last_insp_date": null,
-    "last_insp_type": null,
+    "last_insp_date": "10/25/2016",
+    "last_insp_type": "Pre-Citation Inspection",
     "start_date": "09/08/2016"
 }
