@@ -32,3 +32,19 @@ The script will create a `_data` directory if it doesn't already exist, and then
 ### Contributing to this repo
 
 Pull requests are welcome - if you have an idea for an improvement (for instance, porting `update.py` to another language) you're welcome to make it and open a PR, or open an issue first for discussion.
+
+### Sample record
+
+A typical record is shown below for reference:
+
+```
+{
+    "address": "3424 64TH ST",
+    "case_num": "CEAC224978",
+    "description": "GARAGE BURNED AND THE DEBRIS IS STILL THERE; JUNK CARS IN YARD, AT LEAST ONE OF WHICH IS BURNED FROM THE GARAGE FIRE; JUNK IN BACK YARD. PEOPLE LIVING IN RV IN BACKYARD ON LEFT SIDE PLUGGED INTO HOUSE",
+    "district": 9,
+    "last_insp_date": "08/26/2016",
+    "last_insp_type": "Pre-Citation Inspection",
+    "start_date": "10/29/2015"
+}
+```
