@@ -26,6 +26,7 @@ def scrape_records(district):
     then puts each record into a dictionary with keys based on 
     field names, and returns a list of dictionaries
     """
+    print('Getting code enforcement data...')
     r = requests.get(url_template.format(district))
     soup = BeautifulSoup(r.content, 'html.parser')
 
@@ -51,11 +52,11 @@ def save_records(records):
     different directory for each city district, and are named based
     on the code enforcement case number.
     """
+    print('Saving code enforcement data...')
     for record in records:
         district_path = os.path.join(data_path, str(record['district']))
         record_path = os.path.join(district_path, record['case_num'] + '.json')
         os.makedirs(district_path, exist_ok=True)
-        pprint(record)
 
         with open(record_path, 'w') as f:
             json.dump(record, f, indent = 4, ensure_ascii=False, sort_keys = True)
