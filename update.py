@@ -26,7 +26,7 @@ def scrape_records(district):
     then puts each record into a dictionary with keys based on 
     field names, and returns a list of dictionaries
     """
-    print('Getting code enforcement data...')
+    print('Getting code enforcement data for district {}...'.format(district))
     r = requests.get(url_template.format(district))
     soup = BeautifulSoup(r.content, 'html.parser')
 
