@@ -1,9 +1,9 @@
 {
     "address": "1128 DAISY AVE",
-    "case_num": "CEPH236010",
+    "case_num": "CEPH236018",
     "description": "PEELING PAINT, BROKEN STUCCO, DISCARDED ITEMS ",
     "district": 1,
-    "last_insp_date": "10/27/2016",
-    "last_insp_type": "Initial Inspection",
+    "last_insp_date": null,
+    "last_insp_type": null,
     "start_date": "11/02/2016"
 }
