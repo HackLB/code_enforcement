@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "10/26/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "550 Pacific Coast Hwy, Long Beach, CA 90806, USA",
+        "latitude": 33.7896362,
+        "longitude": -118.1854178
+    },
     "start_date": "10/27/2016"
 }

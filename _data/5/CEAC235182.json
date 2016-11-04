@@ -5,5 +5,10 @@
     "district": 5,
     "last_insp_date": "09/23/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "5703 E Rosebay St, Long Beach, CA 90808, USA",
+        "latitude": 33.8139848,
+        "longitude": -118.1212172
+    },
     "start_date": "09/29/2016"
 }

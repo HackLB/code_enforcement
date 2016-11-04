@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "1601 Cedar Ave, Long Beach, CA 90813, USA",
+        "latitude": 33.7872255,
+        "longitude": -118.1952741
+    },
     "start_date": "10/27/2016"
 }

@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "08/26/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "3424 E 64th St, Long Beach, CA 90805, USA",
+        "latitude": 33.8708389,
+        "longitude": -118.152914
+    },
     "start_date": "10/29/2015"
 }

@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "1565 Linden Ave, Long Beach, CA 90813, USA",
+        "latitude": 33.7865926,
+        "longitude": -118.1868939
+    },
     "start_date": "07/21/2016"
 }

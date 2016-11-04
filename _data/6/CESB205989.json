@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "02/16/2016",
     "last_insp_type": "90 Day Follow-up Inspection",
+    "location": {
+        "address": "2372 Atlantic Ave, Long Beach, CA 90806, USA",
+        "latitude": 33.800162,
+        "longitude": -118.1847217
+    },
     "start_date": "02/12/2014"
 }

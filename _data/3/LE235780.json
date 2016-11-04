@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "35 Outrigger Ct, Long Beach, CA 90803, USA",
+        "latitude": 33.758676,
+        "longitude": -118.094882
+    },
     "start_date": "10/21/2016"
 }

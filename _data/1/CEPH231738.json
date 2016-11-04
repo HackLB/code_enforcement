@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "09/14/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "336 Lime Ave, Long Beach, CA 90802, USA",
+        "latitude": 33.7713071,
+        "longitude": -118.1835832
+    },
     "start_date": "05/31/2016"
 }

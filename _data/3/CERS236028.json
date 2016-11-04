@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "5280 E The Toledo, Long Beach, CA 90803, USA",
+        "latitude": 33.7617514,
+        "longitude": -118.1315005
+    },
     "start_date": "11/02/2016"
 }

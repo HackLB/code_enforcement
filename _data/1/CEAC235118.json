@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "09/15/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "412 W 9th St, Long Beach, CA 90813, USA",
+        "latitude": 33.777509,
+        "longitude": -118.196817
+    },
     "start_date": "09/27/2016"
 }

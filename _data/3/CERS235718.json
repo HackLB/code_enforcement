@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "3626 E 6th St, Long Beach, CA 90814, USA",
+        "latitude": 33.77325,
+        "longitude": -118.14956
+    },
     "start_date": "10/19/2016"
 }

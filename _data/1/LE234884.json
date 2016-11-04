@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "10/04/2016",
     "last_insp_type": "Monitor",
+    "location": {
+        "address": "625 W Anaheim St, Long Beach, CA 90813, USA",
+        "latitude": 33.7831973,
+        "longitude": -118.1999201
+    },
     "start_date": "09/19/2016"
 }

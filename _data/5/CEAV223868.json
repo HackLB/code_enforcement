@@ -5,5 +5,10 @@
     "district": 5,
     "last_insp_date": "09/12/2016",
     "last_insp_type": "Reinspection",
+    "location": {
+        "address": "4644 Graywood Ave, Long Beach, CA 90808, USA",
+        "latitude": 33.8425758,
+        "longitude": -118.1379011
+    },
     "start_date": "09/17/2015"
 }

@@ -5,5 +5,10 @@
     "district": 8,
     "last_insp_date": "08/12/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "92 E Market St, Long Beach, CA 90805, USA",
+        "latitude": 33.8540128,
+        "longitude": -118.1938606
+    },
     "start_date": "08/15/2016"
 }

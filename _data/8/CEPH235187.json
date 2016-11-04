@@ -3,7 +3,12 @@
     "case_num": "CEPH235187",
     "description": "Exterior paint",
     "district": 8,
-    "last_insp_date": "09/15/2016",
-    "last_insp_type": "Initial Inspection",
+    "last_insp_date": "11/04/2016",
+    "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "1012 E San Antonio Dr, Long Beach, CA 90807, USA",
+        "latitude": 33.8388442,
+        "longitude": -118.1809738
+    },
     "start_date": "09/29/2016"
 }

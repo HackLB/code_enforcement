@@ -5,5 +5,10 @@
     "district": 2,
     "last_insp_date": "10/13/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "305 Coronado Ave, Long Beach, CA 90814, USA",
+        "latitude": 33.768376,
+        "longitude": -118.15382
+    },
     "start_date": "10/17/2016"
 }

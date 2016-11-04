@@ -5,5 +5,10 @@
     "district": 7,
     "last_insp_date": "11/02/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1232 W Maddox St, Long Beach, CA 90810, USA",
+        "latitude": 33.8232184,
+        "longitude": -118.208733
+    },
     "start_date": "11/02/2016"
 }

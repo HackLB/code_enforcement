@@ -5,5 +5,10 @@
     "district": 5,
     "last_insp_date": "10/10/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "3253 Lees Ave, Long Beach, CA 90808, USA",
+        "latitude": 33.81607,
+        "longitude": -118.098346
+    },
     "start_date": "10/17/2016"
 }

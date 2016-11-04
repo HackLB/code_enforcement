@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "10/20/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "940 E 60th St, Long Beach, CA 90805, USA",
+        "latitude": 33.8635823,
+        "longitude": -118.1812618
+    },
     "start_date": "10/24/2016"
 }

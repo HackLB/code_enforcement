@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "10/26/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "1049 E Artesia Blvd, Long Beach, CA 90805, USA",
+        "latitude": 33.8748269,
+        "longitude": -118.1799792
+    },
     "start_date": "09/22/2016"
 }

@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "5237 E 2nd St, Long Beach, CA 90803, USA",
+        "latitude": 33.7601979,
+        "longitude": -118.1340279
+    },
     "start_date": "07/25/2016"
 }

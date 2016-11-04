@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "10/17/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "2295 Cedar Ave, Long Beach, CA 90806, USA",
+        "latitude": 33.798779,
+        "longitude": -118.195106
+    },
     "start_date": "12/07/2015"
 }

@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "1040 Elm Ave, Long Beach, CA 90813, USA",
+        "latitude": 33.7798032,
+        "longitude": -118.1876162
+    },
     "start_date": "10/11/2016"
 }

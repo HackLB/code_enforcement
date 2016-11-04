@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "745 Orange Ave, Long Beach, CA 90813, USA",
+        "latitude": 33.7761199,
+        "longitude": -118.1765837
+    },
     "start_date": "11/03/2016"
 }

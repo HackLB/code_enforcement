@@ -5,5 +5,10 @@
     "district": 8,
     "last_insp_date": "07/14/2016",
     "last_insp_type": "Reinspection",
+    "location": {
+        "address": "5269 Atlantic Ave, Long Beach, CA 90805, USA",
+        "latitude": 33.8519714,
+        "longitude": -118.1849881
+    },
     "start_date": "02/12/2016"
 }

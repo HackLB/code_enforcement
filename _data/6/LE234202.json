@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "2005 Long Beach Blvd, Long Beach, CA 90806, USA",
+        "latitude": 33.7940562,
+        "longitude": -118.1899416
+    },
     "start_date": "08/19/2016"
 }

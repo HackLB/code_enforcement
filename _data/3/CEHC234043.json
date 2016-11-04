@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": "11/03/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "3411 E First St, Long Beach, CA 90803, USA",
+        "latitude": 33.7624242,
+        "longitude": -118.1518197
+    },
     "start_date": "08/12/2016"
 }

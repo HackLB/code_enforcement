@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "03/29/2016",
     "last_insp_type": "Monitor",
+    "location": {
+        "address": "6676 Long Beach Blvd, Long Beach, CA 90805, USA",
+        "latitude": 33.8755716,
+        "longitude": -118.2026295
+    },
     "start_date": "03/30/2016"
 }

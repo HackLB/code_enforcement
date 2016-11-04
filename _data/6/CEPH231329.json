@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "10/21/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "1223 E 20th St, Long Beach, CA 90806, USA",
+        "latitude": 33.7942139,
+        "longitude": -118.175522
+    },
     "start_date": "05/18/2016"
 }

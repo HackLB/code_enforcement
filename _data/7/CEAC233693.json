@@ -5,5 +5,10 @@
     "district": 7,
     "last_insp_date": "10/17/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "2851 Golden Ave, Long Beach, CA 90806, USA",
+        "latitude": 33.809067,
+        "longitude": -118.20271
+    },
     "start_date": "08/02/2016"
 }

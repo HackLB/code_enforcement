@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "11/03/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "625 E 4th St, Long Beach, CA 90802, USA",
+        "latitude": 33.771883,
+        "longitude": -118.1842659
+    },
     "start_date": "10/11/2016"
 }

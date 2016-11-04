@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "10/03/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "45 W Bort St, Long Beach, CA 90805, USA",
+        "latitude": 33.870719,
+        "longitude": -118.202752
+    },
     "start_date": "08/30/2016"
 }

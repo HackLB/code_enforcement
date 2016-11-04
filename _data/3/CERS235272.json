@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "163 Syracuse Walk, Long Beach, CA 90803, USA",
+        "latitude": 33.7547698,
+        "longitude": -118.1199897
+    },
     "start_date": "10/03/2016"
 }

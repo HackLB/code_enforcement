@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "10/06/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1303 W Parade St, Long Beach, CA 90810, USA",
+        "latitude": 33.7909531,
+        "longitude": -118.209167
+    },
     "start_date": "10/11/2016"
 }

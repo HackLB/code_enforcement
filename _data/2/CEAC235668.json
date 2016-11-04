@@ -5,5 +5,10 @@
     "district": 2,
     "last_insp_date": "10/11/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "48 Lime Ave, Long Beach, CA 90802, USA",
+        "latitude": 33.7673078,
+        "longitude": -118.1834719
+    },
     "start_date": "10/18/2016"
 }

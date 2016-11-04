@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "10/17/2016",
     "last_insp_type": "Follow-up site inspection - 3rd Interim",
+    "location": {
+        "address": "1940 Henderson Ave, Long Beach, CA 90806, USA",
+        "latitude": 33.79252,
+        "longitude": -118.1974154
+    },
     "start_date": "06/17/2015"
 }

@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "838 Pine Ave, Long Beach, CA 90813, USA",
+        "latitude": 33.7772284,
+        "longitude": -118.1920032
+    },
     "start_date": "11/03/2016"
 }

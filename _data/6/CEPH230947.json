@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "04/19/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1334 Lemon Ave, Long Beach, CA 90813, USA",
+        "latitude": 33.7833022,
+        "longitude": -118.1788101
+    },
     "start_date": "05/09/2016"
 }

@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "06/02/2016",
     "last_insp_type": "Monitor",
+    "location": {
+        "address": "2400 70th St, Long Beach, CA 90805, USA",
+        "latitude": 33.8816599,
+        "longitude": -118.1635921
+    },
     "start_date": "01/05/2016"
 }

@@ -5,5 +5,10 @@
     "district": 2,
     "last_insp_date": "09/29/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "555 Redondo Ave, Long Beach, CA 90814, USA",
+        "latitude": 33.7732386,
+        "longitude": -118.1527299
+    },
     "start_date": "09/29/2016"
 }

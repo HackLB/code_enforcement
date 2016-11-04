@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "10/25/2016",
     "last_insp_type": "Reinspection",
+    "location": {
+        "address": "222 E 10th St, Long Beach, CA 90813, USA",
+        "latitude": 33.778723,
+        "longitude": -118.1903304
+    },
     "start_date": "03/02/2009"
 }

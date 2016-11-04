@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "11/02/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "1471 Gaviota Ave, Long Beach, CA 90813, USA",
+        "latitude": 33.7856871,
+        "longitude": -118.1711109
+    },
     "start_date": "08/24/2016"
 }

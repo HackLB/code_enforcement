@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": "10/19/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "57 Pomona Ave, Long Beach, CA 90803, USA",
+        "latitude": 33.75579950000001,
+        "longitude": -118.1343226
+    },
     "start_date": "06/30/2016"
 }

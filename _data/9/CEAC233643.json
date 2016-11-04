@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "09/26/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "464 E Smith St, Long Beach, CA 90805, USA",
+        "latitude": 33.8656477,
+        "longitude": -118.1870315
+    },
     "start_date": "08/01/2016"
 }

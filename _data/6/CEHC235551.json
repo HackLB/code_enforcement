@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "10/10/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1339 Rose Ave, Long Beach, CA 90813, USA",
+        "latitude": 33.783787,
+        "longitude": -118.1701397
+    },
     "start_date": "10/12/2016"
 }

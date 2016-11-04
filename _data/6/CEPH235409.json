@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "1929 Magnolia Ave, Long Beach, CA 90806, USA",
+        "latitude": 33.792233,
+        "longitude": -118.198448
+    },
     "start_date": "10/07/2016"
 }

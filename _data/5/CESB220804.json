@@ -5,5 +5,10 @@
     "district": 5,
     "last_insp_date": "09/19/2016",
     "last_insp_type": "30 Day Follow-up Inspection",
+    "location": {
+        "address": "3659 Woodruff Ave, Long Beach, CA 90808, USA",
+        "latitude": 33.824083,
+        "longitude": -118.116919
+    },
     "start_date": "05/26/2015"
 }

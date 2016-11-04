@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "101 Vista Del Golfo, Long Beach, CA 90803, USA",
+        "latitude": 33.752998,
+        "longitude": -118.118382
+    },
     "start_date": "10/13/2016"
 }

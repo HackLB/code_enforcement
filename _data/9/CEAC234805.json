@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "10/18/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "301 E Adams St, Long Beach, CA 90805, USA",
+        "latitude": 33.870033,
+        "longitude": -118.196737
+    },
     "start_date": "09/14/2016"
 }

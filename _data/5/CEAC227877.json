@@ -5,5 +5,10 @@
     "district": 5,
     "last_insp_date": "10/20/2016",
     "last_insp_type": "Follow-up Site Inspection - 2nd Interim",
+    "location": {
+        "address": "2356 Knoxville Ave, Long Beach, CA 90815, USA",
+        "latitude": 33.799515,
+        "longitude": -118.104427
+    },
     "start_date": "02/19/2016"
 }

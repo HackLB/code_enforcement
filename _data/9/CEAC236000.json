@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "11/01/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "6548 Falcon Ave, Long Beach, CA 90805, USA",
+        "latitude": 33.8737072,
+        "longitude": -118.1739089
+    },
     "start_date": "11/01/2016"
 }

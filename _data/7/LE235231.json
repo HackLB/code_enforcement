@@ -5,5 +5,10 @@
     "district": 7,
     "last_insp_date": "09/29/2016",
     "last_insp_type": "Monitor",
+    "location": {
+        "address": "3672 Santa Fe Ave, Long Beach, CA 90810, USA",
+        "latitude": 33.8239151,
+        "longitude": -118.2152713
+    },
     "start_date": "09/30/2016"
 }

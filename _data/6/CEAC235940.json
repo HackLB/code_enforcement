@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "10/24/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1825 Orange Ave, Long Beach, CA 90806, USA",
+        "latitude": 33.790412,
+        "longitude": -118.176724
+    },
     "start_date": "10/28/2016"
 }

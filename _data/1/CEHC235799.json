@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "10/18/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1603 Cedar Ave, Long Beach, CA 90813, USA",
+        "latitude": 33.7872236,
+        "longitude": -118.1954676
+    },
     "start_date": "10/24/2016"
 }

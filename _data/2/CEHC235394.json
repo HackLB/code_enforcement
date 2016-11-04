@@ -5,5 +5,10 @@
     "district": 2,
     "last_insp_date": "10/06/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "999 Raymond Ave, Long Beach, CA 90804, USA",
+        "latitude": 33.778818,
+        "longitude": -118.164702
+    },
     "start_date": "10/06/2016"
 }

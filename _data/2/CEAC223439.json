@@ -5,5 +5,10 @@
     "district": 2,
     "last_insp_date": "10/28/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "336 N Colorado Pl, Long Beach, CA 90814, USA",
+        "latitude": 33.7694698,
+        "longitude": -118.1592599
+    },
     "start_date": "09/02/2015"
 }

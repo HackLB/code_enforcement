@@ -5,5 +5,10 @@
     "district": 2,
     "last_insp_date": "06/23/2016",
     "last_insp_type": "Follow-up site inspection - 3rd Interim",
+    "location": {
+        "address": "500 St Louis Ave, Long Beach, CA 90814, USA",
+        "latitude": 33.7735463,
+        "longitude": -118.1663769
+    },
     "start_date": "06/17/2015"
 }

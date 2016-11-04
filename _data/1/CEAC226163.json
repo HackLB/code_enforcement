@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "02/16/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "1536 W Gaylord St, Long Beach, CA 90813, USA",
+        "latitude": 33.7863218,
+        "longitude": -118.2130071
+    },
     "start_date": "12/18/2015"
 }

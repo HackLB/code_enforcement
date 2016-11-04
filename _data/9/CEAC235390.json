@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "10/31/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "1315 E 68th St, Long Beach, CA 90805, USA",
+        "latitude": 33.8784071,
+        "longitude": -118.1761138
+    },
     "start_date": "10/06/2016"
 }

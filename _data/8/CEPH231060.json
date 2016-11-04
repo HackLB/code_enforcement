@@ -5,5 +5,10 @@
     "district": 8,
     "last_insp_date": "10/27/2016",
     "last_insp_type": "Follow-up Site Inspection - 2nd Interim",
+    "location": {
+        "address": "5557 Atlantic Ave, Long Beach, CA 90805, USA",
+        "latitude": 33.857285,
+        "longitude": -118.185268
+    },
     "start_date": "05/10/2016"
 }

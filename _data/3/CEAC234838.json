@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": "10/19/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "2518 E 2nd St, Long Beach, CA 90803, USA",
+        "latitude": 33.7652265,
+        "longitude": -118.1620353
+    },
     "start_date": "09/16/2016"
 }

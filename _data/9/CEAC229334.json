@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "07/20/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "2828 E 63rd St, Long Beach, CA 90805, USA",
+        "latitude": 33.868968,
+        "longitude": -118.159256
+    },
     "start_date": "03/24/2016"
 }

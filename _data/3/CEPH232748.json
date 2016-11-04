@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": "06/20/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "4030 E 10th St, Long Beach, CA 90804, USA",
+        "latitude": 33.778681,
+        "longitude": -118.1451239
+    },
     "start_date": "06/28/2016"
 }

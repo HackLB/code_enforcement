@@ -5,5 +5,10 @@
     "district": 8,
     "last_insp_date": "10/19/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "5437 Atlantic Ave, Long Beach, CA 90805, USA",
+        "latitude": 33.8550644,
+        "longitude": -118.1851855
+    },
     "start_date": "10/21/2016"
 }

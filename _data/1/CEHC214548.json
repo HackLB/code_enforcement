@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "08/16/2016",
     "last_insp_type": "Follow-up site inspection - 3rd Interim",
+    "location": {
+        "address": "926 N Loma Vista Dr, Long Beach, CA 90813, USA",
+        "latitude": 33.777809,
+        "longitude": -118.203153
+    },
     "start_date": "11/17/2014"
 }

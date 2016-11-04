@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "11/07/2016",
     "last_insp_type": "Follow-up Site Inspection - 1st Interim",
+    "location": {
+        "address": "2235 Lime Ave, Long Beach, CA 90806, USA",
+        "latitude": 33.7978398,
+        "longitude": -118.1840883
+    },
     "start_date": "07/25/2016"
 }

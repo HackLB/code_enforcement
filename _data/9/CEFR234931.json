@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "208 E Barclay St, Long Beach, CA 90805, USA",
+        "latitude": 33.8671679,
+        "longitude": -118.1982351
+    },
     "start_date": "09/20/2016"
 }

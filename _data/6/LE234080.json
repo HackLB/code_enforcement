@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "08/13/2016",
     "last_insp_type": "Monitor",
+    "location": {
+        "address": "1390 Gundry Ave, Long Beach, CA 90813, USA",
+        "latitude": 33.784272,
+        "longitude": -118.173973
+    },
     "start_date": "08/13/2016"
 }

@@ -5,5 +5,10 @@
     "district": 2,
     "last_insp_date": "10/31/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1921 E Florida St, Long Beach, CA 90802, USA",
+        "latitude": 33.7710614,
+        "longitude": -118.1683513
+    },
     "start_date": "10/31/2016"
 }

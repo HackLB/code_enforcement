@@ -5,5 +5,10 @@
     "district": 5,
     "last_insp_date": "10/31/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "3102 Roxanne Ave, Long Beach, CA 90808, USA",
+        "latitude": 33.812696,
+        "longitude": -118.0961074
+    },
     "start_date": "09/07/2016"
 }

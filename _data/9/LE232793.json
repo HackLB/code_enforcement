@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "07/15/2016",
     "last_insp_type": "Monitor",
+    "location": {
+        "address": "6765 N Paramount Blvd, Long Beach, CA 90805, USA",
+        "latitude": 33.8775317,
+        "longitude": -118.1603439
+    },
     "start_date": "06/29/2016"
 }

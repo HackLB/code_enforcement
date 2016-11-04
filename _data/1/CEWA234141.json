@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "09/06/2016",
     "last_insp_type": "Reinspection",
+    "location": {
+        "address": "1661 Seabright Ave, Long Beach, CA 90813, USA",
+        "latitude": 33.7876765,
+        "longitude": -118.2176704
+    },
     "start_date": "08/17/2016"
 }

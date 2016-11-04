@@ -5,5 +5,10 @@
     "district": 2,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "3315 E 4th St, Long Beach, CA 90814, USA",
+        "latitude": 33.771928,
+        "longitude": -118.153177
+    },
     "start_date": "11/02/2016"
 }

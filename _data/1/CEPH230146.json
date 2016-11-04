@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "06/08/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "546 Chestnut Ave, Long Beach, CA 90802, USA",
+        "latitude": 33.7738136,
+        "longitude": -118.1961019
+    },
     "start_date": "04/13/2016"
 }

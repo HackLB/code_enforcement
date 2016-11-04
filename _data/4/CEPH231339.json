@@ -5,5 +5,10 @@
     "district": 4,
     "last_insp_date": "05/02/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1330 Redondo Ave, Long Beach, CA 90804, USA",
+        "latitude": 33.7833649,
+        "longitude": -118.1521056
+    },
     "start_date": "05/18/2016"
 }

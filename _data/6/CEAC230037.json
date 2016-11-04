@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "10/24/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "1883 Long Beach Blvd, Long Beach, CA 90806, USA",
+        "latitude": 33.7911684,
+        "longitude": -118.1898664
+    },
     "start_date": "04/11/2016"
 }

@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": "10/17/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "791 Salida Ave, Long Beach, CA 90815, USA",
+        "latitude": 33.77593,
+        "longitude": -118.100881
+    },
     "start_date": "09/12/2016"
 }

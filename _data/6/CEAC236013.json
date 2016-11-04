@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "10/31/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1995 Atlantic Ave, Long Beach, CA 90806, USA",
+        "latitude": 33.7933546,
+        "longitude": -118.1851657
+    },
     "start_date": "11/02/2016"
 }

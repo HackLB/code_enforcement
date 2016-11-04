@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "08/29/2016",
     "last_insp_type": "Reinspection",
+    "location": {
+        "address": "727 Chestnut Ave, Long Beach, CA 90813, USA",
+        "latitude": 33.775953,
+        "longitude": -118.196824
+    },
     "start_date": "07/11/2016"
 }

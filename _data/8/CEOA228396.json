@@ -5,5 +5,10 @@
     "district": 8,
     "last_insp_date": "02/23/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "3701 N Pacific Pl, Long Beach, CA 90806, USA",
+        "latitude": 33.8261318,
+        "longitude": -118.202455
+    },
     "start_date": "02/29/2016"
 }

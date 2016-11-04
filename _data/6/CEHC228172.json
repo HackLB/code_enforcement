@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "09/22/2016",
     "last_insp_type": "Follow-up Site Inspection - 1st Interim",
+    "location": {
+        "address": "1201 Olive Ave, Long Beach, CA 90813, USA",
+        "latitude": 33.781733,
+        "longitude": -118.183163
+    },
     "start_date": "02/24/2016"
 }

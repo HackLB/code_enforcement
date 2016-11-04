@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "2302 E 2nd St, Long Beach, CA 90803, USA",
+        "latitude": 33.7655599,
+        "longitude": -118.1640014
+    },
     "start_date": "10/20/2016"
 }

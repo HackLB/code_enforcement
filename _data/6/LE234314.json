@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "2610 Magnolia Ave, Long Beach, CA 90806, USA",
+        "latitude": 33.8046604,
+        "longitude": -118.1978765
+    },
     "start_date": "08/24/2016"
 }

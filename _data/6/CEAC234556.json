@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "10/20/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "1928 Locust Ave, Long Beach, CA 90806, USA",
+        "latitude": 33.792354,
+        "longitude": -118.190775
+    },
     "start_date": "09/02/2016"
 }

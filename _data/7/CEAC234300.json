@@ -5,5 +5,10 @@
     "district": 7,
     "last_insp_date": "08/24/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "2500 Delta Ave, Long Beach, CA 90810, USA",
+        "latitude": 33.802707,
+        "longitude": -118.210782
+    },
     "start_date": "08/24/2016"
 }

@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "09/19/2016",
     "last_insp_type": "Follow-up Site Inspection - 2nd Interim",
+    "location": {
+        "address": "911 W Chester Pl, Long Beach, CA 90813, USA",
+        "latitude": 33.7773252,
+        "longitude": -118.203011
+    },
     "start_date": "03/22/2016"
 }

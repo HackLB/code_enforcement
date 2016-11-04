@@ -5,5 +5,10 @@
     "district": 8,
     "last_insp_date": "03/29/2016",
     "last_insp_type": "Monitor",
+    "location": {
+        "address": "4136 Atlantic Ave, Long Beach, CA 90807, USA",
+        "latitude": 33.8325138,
+        "longitude": -118.1847259
+    },
     "start_date": "03/30/2016"
 }

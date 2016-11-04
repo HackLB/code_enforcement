@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "07/19/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1409 E 59th St, Long Beach, CA 90805, USA",
+        "latitude": 33.8621057,
+        "longitude": -118.1751122
+    },
     "start_date": "07/28/2016"
 }

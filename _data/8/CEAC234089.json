@@ -5,5 +5,10 @@
     "district": 8,
     "last_insp_date": "08/22/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "170 E Plymouth St, Long Beach, CA 90805, USA",
+        "latitude": 33.8531375,
+        "longitude": -118.1921675
+    },
     "start_date": "08/15/2016"
 }

@@ -5,5 +5,10 @@
     "district": 8,
     "last_insp_date": "09/14/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "5710 Dairy Ave, Long Beach, CA 90805, USA",
+        "latitude": 33.859421,
+        "longitude": -118.191548
+    },
     "start_date": "09/28/2016"
 }

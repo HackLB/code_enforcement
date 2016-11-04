@@ -5,5 +5,10 @@
     "district": 2,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "311 Junipero Ave, Long Beach, CA 90814, USA",
+        "latitude": 33.76905850000001,
+        "longitude": -118.1655318
+    },
     "start_date": "02/16/2016"
 }

@@ -5,5 +5,10 @@
     "district": 5,
     "last_insp_date": "09/12/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "4255 N Bellflower Blvd, Long Beach, CA 90808, USA",
+        "latitude": 33.8359256,
+        "longitude": -118.1255051
+    },
     "start_date": "09/12/2016"
 }

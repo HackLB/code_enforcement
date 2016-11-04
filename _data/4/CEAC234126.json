@@ -5,5 +5,10 @@
     "district": 4,
     "last_insp_date": "10/20/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "4100 E Anaheim St, Long Beach, CA 90804, USA",
+        "latitude": 33.7824388,
+        "longitude": -118.1446669
+    },
     "start_date": "08/16/2016"
 }

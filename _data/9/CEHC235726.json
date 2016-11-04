@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "10/18/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "6620 Orizaba Ave, Long Beach, CA 90805, USA",
+        "latitude": 33.8752046,
+        "longitude": -118.1575249
+    },
     "start_date": "10/19/2016"
 }

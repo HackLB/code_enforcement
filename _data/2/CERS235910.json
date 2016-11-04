@@ -5,5 +5,10 @@
     "district": 2,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "1187 E 3rd St, Long Beach, CA 90802, USA",
+        "latitude": 33.7704114,
+        "longitude": -118.1767801
+    },
     "start_date": "10/27/2016"
 }

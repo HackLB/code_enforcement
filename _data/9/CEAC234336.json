@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "10/18/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "6626 Falcon Ave, Long Beach, CA 90805, USA",
+        "latitude": 33.8752573,
+        "longitude": -118.173853
+    },
     "start_date": "08/25/2016"
 }

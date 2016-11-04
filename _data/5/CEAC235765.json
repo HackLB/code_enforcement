@@ -5,5 +5,10 @@
     "district": 5,
     "last_insp_date": "10/20/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "6831 E La Marimba St, Long Beach, CA 90815, USA",
+        "latitude": 33.797931,
+        "longitude": -118.10017
+    },
     "start_date": "10/20/2016"
 }

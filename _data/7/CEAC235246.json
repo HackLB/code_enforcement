@@ -5,5 +5,10 @@
     "district": 7,
     "last_insp_date": "09/29/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "2940 De Forest Ave, Long Beach, CA 90806, USA",
+        "latitude": 33.8107476,
+        "longitude": -118.2040428
+    },
     "start_date": "09/30/2016"
 }

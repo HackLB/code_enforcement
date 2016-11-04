@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "5199 E Pacific Coast Hwy, Long Beach, CA 90804, USA",
+        "latitude": 33.7831901,
+        "longitude": -118.132482
+    },
     "start_date": "10/17/2016"
 }

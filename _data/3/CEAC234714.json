@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": "10/13/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "1511 N Greenbrier Rd, Long Beach, CA 90815, USA",
+        "latitude": 33.786157,
+        "longitude": -118.13372
+    },
     "start_date": "09/12/2016"
 }

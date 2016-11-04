@@ -5,5 +5,10 @@
     "district": 2,
     "last_insp_date": "10/13/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1320 E Appleton St, Long Beach, CA 90802, USA",
+        "latitude": 33.7685744,
+        "longitude": -118.1744303
+    },
     "start_date": "10/14/2016"
 }

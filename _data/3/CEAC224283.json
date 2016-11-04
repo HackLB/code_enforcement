@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": "10/13/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "5369 E Broadway, Long Beach, CA 90803, USA",
+        "latitude": 33.76106499999999,
+        "longitude": -118.128527
+    },
     "start_date": "10/05/2015"
 }

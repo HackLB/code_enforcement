@@ -5,5 +5,10 @@
     "district": 2,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "3316 E 7th St, Long Beach, CA 90804, USA",
+        "latitude": 33.775097,
+        "longitude": -118.153022
+    },
     "start_date": "09/30/2016"
 }

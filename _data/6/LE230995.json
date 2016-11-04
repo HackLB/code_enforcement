@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "04/21/2016",
     "last_insp_type": "Monitor",
+    "location": {
+        "address": "2160 Long Beach Blvd, Long Beach, CA 90806, USA",
+        "latitude": 33.7965391,
+        "longitude": -118.1889606
+    },
     "start_date": "05/09/2016"
 }

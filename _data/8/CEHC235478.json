@@ -5,5 +5,10 @@
     "district": 8,
     "last_insp_date": "10/11/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1124 E Via Wanda, Long Beach, CA 90805, USA",
+        "latitude": 33.850003,
+        "longitude": -118.178147
+    },
     "start_date": "10/11/2016"
 }

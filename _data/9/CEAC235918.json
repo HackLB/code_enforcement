@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "10/27/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "3002 E Sawyer St, Long Beach, CA 90805, USA",
+        "latitude": 33.8700159,
+        "longitude": -118.1576931
+    },
     "start_date": "10/27/2016"
 }

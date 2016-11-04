@@ -5,5 +5,10 @@
     "district": 8,
     "last_insp_date": "07/21/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1001 E 46th St, Long Beach, CA 90807, USA",
+        "latitude": 33.8428049,
+        "longitude": -118.1817952
+    },
     "start_date": "07/27/2016"
 }

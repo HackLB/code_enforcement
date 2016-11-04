@@ -5,5 +5,10 @@
     "district": 7,
     "last_insp_date": "10/14/2016",
     "last_insp_type": "Reinspection",
+    "location": {
+        "address": "710 E Burnett St, Long Beach, CA 90806, USA",
+        "latitude": 33.8006027,
+        "longitude": -118.1835904
+    },
     "start_date": "05/21/2012"
 }

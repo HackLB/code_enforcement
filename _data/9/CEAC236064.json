@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "11/03/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1437 E 68th St, Long Beach, CA 90805, USA",
+        "latitude": 33.8784409,
+        "longitude": -118.1744635
+    },
     "start_date": "11/03/2016"
 }

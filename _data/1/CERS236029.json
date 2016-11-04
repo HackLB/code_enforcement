@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "817 Alamitos Ave, Long Beach, CA 90813, USA",
+        "latitude": 33.776976,
+        "longitude": -118.179959
+    },
     "start_date": "11/02/2016"
 }

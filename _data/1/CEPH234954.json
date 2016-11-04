@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "09/15/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1285 Chestnut Ave, Long Beach, CA 90813, USA",
+        "latitude": 33.7822943,
+        "longitude": -118.1960651
+    },
     "start_date": "09/21/2016"
 }

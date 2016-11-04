@@ -5,5 +5,10 @@
     "district": 8,
     "last_insp_date": "06/08/2016",
     "last_insp_type": "Follow-up Site Inspection - 1st Interim",
+    "location": {
+        "address": "1900 E 56th St, Long Beach, CA 90805, USA",
+        "latitude": 33.857601,
+        "longitude": -118.169519
+    },
     "start_date": "04/08/2014"
 }

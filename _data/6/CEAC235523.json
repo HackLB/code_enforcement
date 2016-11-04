@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "10/12/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "2200 Pacific Ave, Long Beach, CA 90806, USA",
+        "latitude": 33.7974357,
+        "longitude": -118.1933803
+    },
     "start_date": "10/12/2016"
 }

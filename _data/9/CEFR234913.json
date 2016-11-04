@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "6308 Raymond Ave, Long Beach, CA 90805, USA",
+        "latitude": 33.8698043,
+        "longitude": -118.1646138
+    },
     "start_date": "09/20/2016"
 }

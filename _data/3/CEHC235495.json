@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": "10/11/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "4041 E 2nd St, Long Beach, CA 90803, USA",
+        "latitude": 33.7625162,
+        "longitude": -118.1451368
+    },
     "start_date": "10/11/2016"
 }

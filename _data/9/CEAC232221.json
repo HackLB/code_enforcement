@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "11/03/2016",
     "last_insp_type": "Follow-up site inspection - 3rd Interim",
+    "location": {
+        "address": "2205 E 65th St, Long Beach, CA 90805, USA",
+        "latitude": 33.872697,
+        "longitude": -118.166373
+    },
     "start_date": "06/14/2016"
 }

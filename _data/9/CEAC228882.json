@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "09/14/2016",
     "last_insp_type": "Follow-up Site Inspection - 2nd Interim",
+    "location": {
+        "address": "2204 E McKenzie St, Long Beach, CA 90805, USA",
+        "latitude": 33.871529,
+        "longitude": -118.166423
+    },
     "start_date": "03/10/2016"
 }

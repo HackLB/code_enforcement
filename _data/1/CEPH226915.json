@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "09/16/2016",
     "last_insp_type": "Follow-up Site Inspection - 2nd Interim",
+    "location": {
+        "address": "1151 Cedar Ave, Long Beach, CA 90813, USA",
+        "latitude": 33.7812,
+        "longitude": -118.195313
+    },
     "start_date": "01/21/2016"
 }

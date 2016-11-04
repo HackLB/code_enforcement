@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "548 Magnolia Ave, Long Beach, CA 90802, USA",
+        "latitude": 33.7739005,
+        "longitude": -118.1978235
+    },
     "start_date": "10/04/2016"
 }

@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "08/03/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "6050 Olive Ave, Long Beach, CA 90805, USA",
+        "latitude": 33.86473,
+        "longitude": -118.182734
+    },
     "start_date": "08/15/2016"
 }

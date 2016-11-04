@@ -5,5 +5,10 @@
     "district": 7,
     "last_insp_date": "09/29/2016",
     "last_insp_type": "Monitor",
+    "location": {
+        "address": "1985 W Wardlow Rd, Long Beach, CA 90810, USA",
+        "latitude": 33.8246331,
+        "longitude": -118.2189254
+    },
     "start_date": "09/02/2016"
 }

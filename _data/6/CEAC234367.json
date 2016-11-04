@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "10/03/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "1150 E Anaheim St, Long Beach, CA 90813, USA",
+        "latitude": 33.7824079,
+        "longitude": -118.1782812
+    },
     "start_date": "08/26/2016"
 }

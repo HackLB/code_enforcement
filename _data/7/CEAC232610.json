@@ -5,5 +5,10 @@
     "district": 7,
     "last_insp_date": "10/20/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "2074 Daisy Ave, Long Beach, CA 90806, USA",
+        "latitude": 33.7948557,
+        "longitude": -118.1990119
+    },
     "start_date": "06/23/2016"
 }

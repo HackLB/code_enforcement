@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "11/01/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "2236 Lewis Ave, Long Beach, CA 90806, USA",
+        "latitude": 33.797816,
+        "longitude": -118.179437
+    },
     "start_date": "03/17/2016"
 }

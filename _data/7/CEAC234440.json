@@ -5,5 +5,10 @@
     "district": 7,
     "last_insp_date": "09/19/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "184 E Cameron Pl, Long Beach, CA 90807, USA",
+        "latitude": 33.82291,
+        "longitude": -118.190993
+    },
     "start_date": "08/30/2016"
 }

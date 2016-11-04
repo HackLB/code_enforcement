@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "10/28/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "228 Pacific Coast Hwy, Long Beach, CA 90806, USA",
+        "latitude": 33.7896806,
+        "longitude": -118.1903884
+    },
     "start_date": "11/02/2016"
 }

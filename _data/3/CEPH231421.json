@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": "05/09/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "920 Loma Ave, Long Beach, CA 90804, USA",
+        "latitude": 33.7784097,
+        "longitude": -118.149908
+    },
     "start_date": "05/19/2016"
 }

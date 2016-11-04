@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": "10/28/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "5103 Pacific Coast Hwy, Long Beach, CA 90804, USA",
+        "latitude": 33.7840864,
+        "longitude": -118.133795
+    },
     "start_date": "10/11/2016"
 }

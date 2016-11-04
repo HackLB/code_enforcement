@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "10/24/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "375 E 16th St, Long Beach, CA 90813, USA",
+        "latitude": 33.787398,
+        "longitude": -118.187968
+    },
     "start_date": "05/04/2016"
 }

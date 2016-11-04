@@ -5,5 +5,10 @@
     "district": 8,
     "last_insp_date": "09/30/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1621 E 56th St, Long Beach, CA 90805, USA",
+        "latitude": 33.8578243,
+        "longitude": -118.1731374
+    },
     "start_date": "10/06/2016"
 }

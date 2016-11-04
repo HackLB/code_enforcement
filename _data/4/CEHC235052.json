@@ -5,5 +5,10 @@
     "district": 4,
     "last_insp_date": "10/31/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "1111 Euclid Ave, Long Beach, CA 90804, USA",
+        "latitude": 33.7810511,
+        "longitude": -118.1493121
+    },
     "start_date": "09/26/2016"
 }

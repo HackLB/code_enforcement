@@ -5,5 +5,10 @@
     "district": 4,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "1371 Redondo Ave, Long Beach, CA 90804, USA",
+        "latitude": 33.783978,
+        "longitude": -118.152737
+    },
     "start_date": "11/03/2016"
 }

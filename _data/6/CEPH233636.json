@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "07/25/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "542 E Rhea St, Long Beach, CA 90806, USA",
+        "latitude": 33.792324,
+        "longitude": -118.18619
+    },
     "start_date": "07/29/2016"
 }

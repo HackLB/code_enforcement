@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "10/27/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "6240 Orange Ave, Long Beach, CA 90805, USA",
+        "latitude": 33.868127,
+        "longitude": -118.177006
+    },
     "start_date": "10/31/2016"
 }

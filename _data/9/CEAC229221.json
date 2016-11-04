@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "10/27/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "6564 Cerritos Ave, Long Beach, CA 90805, USA",
+        "latitude": 33.8739021,
+        "longitude": -118.1780129
+    },
     "start_date": "03/22/2016"
 }

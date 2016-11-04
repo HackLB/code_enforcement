@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "10/25/2016",
     "last_insp_type": "Follow-up site inspection - 3rd Interim",
+    "location": {
+        "address": "2041 Cedar Ave, Long Beach, CA 90806, USA",
+        "latitude": 33.7943209,
+        "longitude": -118.195112
+    },
     "start_date": "06/21/2016"
 }

@@ -5,5 +5,10 @@
     "district": 8,
     "last_insp_date": "09/28/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "401 E 57th St, Long Beach, CA 90805, USA",
+        "latitude": 33.8593844,
+        "longitude": -118.1882705
+    },
     "start_date": "10/05/2016"
 }

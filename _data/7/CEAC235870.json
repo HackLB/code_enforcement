@@ -5,5 +5,10 @@
     "district": 7,
     "last_insp_date": "10/26/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "3395 Adriatic Ave, Long Beach, CA 90810, USA",
+        "latitude": 33.8187965,
+        "longitude": -118.2146258
+    },
     "start_date": "10/26/2016"
 }

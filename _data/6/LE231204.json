@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "2252 Pacific Ave, Long Beach, CA 90806, USA",
+        "latitude": 33.7980799,
+        "longitude": -118.1934214
+    },
     "start_date": "05/13/2016"
 }

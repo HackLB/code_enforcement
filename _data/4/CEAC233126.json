@@ -5,5 +5,10 @@
     "district": 4,
     "last_insp_date": "10/18/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "1384 Quincy Ave, Long Beach, CA 90804, USA",
+        "latitude": 33.7841504,
+        "longitude": -118.139191
+    },
     "start_date": "07/13/2016"
 }

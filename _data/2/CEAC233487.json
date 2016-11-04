@@ -5,5 +5,10 @@
     "district": 2,
     "last_insp_date": "10/18/2016",
     "last_insp_type": "Follow-up Site Inspection - 1st Interim",
+    "location": {
+        "address": "1064 Hoffman Ave, Long Beach, CA 90813, USA",
+        "latitude": 33.7801608,
+        "longitude": -118.1734632
+    },
     "start_date": "07/25/2016"
 }

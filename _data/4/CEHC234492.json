@@ -5,5 +5,10 @@
     "district": 4,
     "last_insp_date": "10/10/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "1205 Temple Ave, Long Beach, CA 90804, USA",
+        "latitude": 33.781885,
+        "longitude": -118.159256
+    },
     "start_date": "08/31/2016"
 }

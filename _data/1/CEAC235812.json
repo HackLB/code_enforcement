@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "10/25/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1105 Long Beach Blvd, Long Beach, CA 90813, USA",
+        "latitude": 33.7808175,
+        "longitude": -118.1897163
+    },
     "start_date": "10/24/2016"
 }

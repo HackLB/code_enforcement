@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "10/11/2016",
     "last_insp_type": "Reinspection",
+    "location": {
+        "address": "2336 Pacific Ave, Long Beach, CA 90806, USA",
+        "latitude": 33.7996701,
+        "longitude": -118.1933733
+    },
     "start_date": "04/27/2010"
 }

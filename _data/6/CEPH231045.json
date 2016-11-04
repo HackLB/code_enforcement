@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "08/16/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "221 E Burnett St, Long Beach, CA 90806, USA",
+        "latitude": 33.8010221,
+        "longitude": -118.1906209
+    },
     "start_date": "05/10/2016"
 }

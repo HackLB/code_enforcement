@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "10/05/2016",
     "last_insp_type": "Follow-up Site Inspection - 1st Interim",
+    "location": {
+        "address": "1110 Long Beach Blvd, Long Beach, CA 90813, USA",
+        "latitude": 33.7811865,
+        "longitude": -118.1889193
+    },
     "start_date": "04/28/2016"
 }

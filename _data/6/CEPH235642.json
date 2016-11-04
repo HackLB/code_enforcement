@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "10/13/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "2050 Magnolia Ave, Long Beach, CA 90806, USA",
+        "latitude": 33.7944771,
+        "longitude": -118.1977746
+    },
     "start_date": "10/17/2016"
 }

@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "06/06/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1533 W 19th St, Long Beach, CA 90810, USA",
+        "latitude": 33.791934,
+        "longitude": -118.213178
+    },
     "start_date": "06/06/2016"
 }

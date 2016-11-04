@@ -5,5 +5,10 @@
     "district": 8,
     "last_insp_date": "07/21/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "561 E Pleasant St, Long Beach, CA 90805, USA",
+        "latitude": 33.8468751,
+        "longitude": -118.1860941
+    },
     "start_date": "07/25/2016"
 }

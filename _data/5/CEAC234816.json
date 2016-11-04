@@ -5,5 +5,10 @@
     "district": 5,
     "last_insp_date": "10/17/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "6614 E Wardlow Rd, Long Beach, CA 90808, USA",
+        "latitude": 33.8185723,
+        "longitude": -118.1034612
+    },
     "start_date": "09/15/2016"
 }

@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "10/26/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "6060 Atlantic Ave, Long Beach, CA 90805, USA",
+        "latitude": 33.864888,
+        "longitude": -118.184677
+    },
     "start_date": "10/27/2016"
 }

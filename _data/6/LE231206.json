@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "05/14/2016",
     "last_insp_type": "Monitor",
+    "location": {
+        "address": "322 E Burnett St, Long Beach, CA 90806, USA",
+        "latitude": 33.800605,
+        "longitude": -118.188629
+    },
     "start_date": "05/14/2016"
 }

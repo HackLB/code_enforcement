@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "216 W Anaheim St, Long Beach, CA 90813, USA",
+        "latitude": 33.7824535,
+        "longitude": -118.1942682
+    },
     "start_date": "08/10/2016"
 }

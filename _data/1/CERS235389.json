@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "100 W 5th St, Long Beach, CA 90802, USA",
+        "latitude": 33.77267399999999,
+        "longitude": -118.192762
+    },
     "start_date": "10/06/2016"
 }

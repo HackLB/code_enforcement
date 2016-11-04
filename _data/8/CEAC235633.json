@@ -5,5 +5,10 @@
     "district": 8,
     "last_insp_date": "10/11/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "336 E Market St, Long Beach, CA 90805, USA",
+        "latitude": 33.8539115,
+        "longitude": -118.1889453
+    },
     "start_date": "10/17/2016"
 }

@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "06/09/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "2020 E 15th St, Long Beach, CA 90804, USA",
+        "latitude": 33.7859853,
+        "longitude": -118.1672987
+    },
     "start_date": "07/06/2016"
 }

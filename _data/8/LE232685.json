@@ -5,5 +5,10 @@
     "district": 8,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "5420 Dairy Ave, Long Beach, CA 90805, USA",
+        "latitude": 33.8544639,
+        "longitude": -118.1945687
+    },
     "start_date": "06/27/2016"
 }

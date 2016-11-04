@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "10/31/2016",
     "last_insp_type": "Follow-up Site Inspection - 2nd Interim",
+    "location": {
+        "address": "5919 Brayton Ave, Long Beach, CA 90805, USA",
+        "latitude": 33.862479,
+        "longitude": -118.176581
+    },
     "start_date": "05/02/2016"
 }

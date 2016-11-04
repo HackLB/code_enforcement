@@ -5,5 +5,10 @@
     "district": 7,
     "last_insp_date": "10/06/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1348 W 33rd St, Long Beach, CA 90810, USA",
+        "latitude": 33.8168549,
+        "longitude": -118.209852
+    },
     "start_date": "10/06/2016"
 }

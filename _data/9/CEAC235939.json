@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "10/27/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "296 E Marker St, Long Beach, CA 90805, USA",
+        "latitude": 33.8749151,
+        "longitude": -118.1971654
+    },
     "start_date": "10/28/2016"
 }

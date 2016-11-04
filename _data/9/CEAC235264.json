@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "10/03/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "151 E 67th St, Long Beach, CA 90805, USA",
+        "latitude": 33.8762456,
+        "longitude": -118.2015601
+    },
     "start_date": "10/03/2016"
 }

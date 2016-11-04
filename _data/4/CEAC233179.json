@@ -5,5 +5,10 @@
     "district": 4,
     "last_insp_date": "09/14/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "5874 E Los Arcos St, Long Beach, CA 90815, USA",
+        "latitude": 33.79954,
+        "longitude": -118.11837
+    },
     "start_date": "07/14/2016"
 }

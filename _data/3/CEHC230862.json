@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": "10/11/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "5200 S Broadway, Los Angeles, CA 90037, USA",
+        "latitude": 33.995098,
+        "longitude": -118.2779372
+    },
     "start_date": "05/05/2016"
 }

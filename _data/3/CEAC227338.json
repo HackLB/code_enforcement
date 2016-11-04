@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": "10/25/2016",
     "last_insp_type": "Follow-up Site Inspection - 2nd Interim",
+    "location": {
+        "address": "5721 Campo Walk, Long Beach, CA 90803, USA",
+        "latitude": 33.756244,
+        "longitude": -118.1225957
+    },
     "start_date": "02/03/2016"
 }

@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "10/20/2016",
     "last_insp_type": "Follow-up Site Inspection - 1st Interim",
+    "location": {
+        "address": "1423 Linden Ave, Long Beach, CA 90813, USA",
+        "latitude": 33.7843076,
+        "longitude": -118.1869023
+    },
     "start_date": "12/17/2015"
 }

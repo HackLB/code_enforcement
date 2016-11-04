@@ -5,5 +5,10 @@
     "district": 2,
     "last_insp_date": "10/10/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "1715 E 7th St, Long Beach, CA 90813, USA",
+        "latitude": 33.77562,
+        "longitude": -118.170527
+    },
     "start_date": "07/05/2016"
 }

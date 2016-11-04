@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "1101 Long Beach Blvd, Long Beach, CA 90813, USA",
+        "latitude": 33.7808036,
+        "longitude": -118.1896059
+    },
     "start_date": "10/19/2016"
 }

@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "10/24/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "2035 Pacific Ave, Long Beach, CA 90806, USA",
+        "latitude": 33.7941875,
+        "longitude": -118.194029
+    },
     "start_date": "07/20/2016"
 }

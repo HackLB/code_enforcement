@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "09/09/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "269 E Artesia Blvd, Long Beach, CA 90805, USA",
+        "latitude": 33.8745676,
+        "longitude": -118.1979537
+    },
     "start_date": "09/16/2016"
 }

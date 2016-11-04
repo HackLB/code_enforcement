@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "400 W 20th St, Long Beach, CA 90806, USA",
+        "latitude": 33.7933474,
+        "longitude": -118.1967614
+    },
     "start_date": "06/27/2016"
 }

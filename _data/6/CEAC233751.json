@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "09/06/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "1235 E 11th St, Long Beach, CA 90813, USA",
+        "latitude": 33.780925,
+        "longitude": -118.1755111
+    },
     "start_date": "08/03/2016"
 }

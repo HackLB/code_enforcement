@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "10/24/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "2222 E Harding St, Long Beach, CA 90805, USA",
+        "latitude": 33.8671967,
+        "longitude": -118.1659791
+    },
     "start_date": "10/25/2016"
 }

@@ -5,5 +5,10 @@
     "district": 8,
     "last_insp_date": "07/27/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "296 E Norton St, Long Beach, CA 90805, USA",
+        "latitude": 33.85822,
+        "longitude": -118.1899843
+    },
     "start_date": "07/28/2016"
 }

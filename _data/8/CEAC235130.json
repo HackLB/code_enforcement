@@ -5,5 +5,10 @@
     "district": 8,
     "last_insp_date": "09/13/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "437 E 55th St, Long Beach, CA 90805, USA",
+        "latitude": 33.856224,
+        "longitude": -118.187532
+    },
     "start_date": "09/28/2016"
 }

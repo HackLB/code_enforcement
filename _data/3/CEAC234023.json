@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": "10/11/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "3906 E 6th St, Long Beach, CA 90814, USA",
+        "latitude": 33.773254,
+        "longitude": -118.14673
+    },
     "start_date": "08/11/2016"
 }

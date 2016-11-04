@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "09/29/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "808 Martin Luther King Jr Ave, Long Beach, CA 90813, USA",
+        "latitude": 33.776722,
+        "longitude": -118.180354
+    },
     "start_date": "05/03/2016"
 }

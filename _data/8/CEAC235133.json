@@ -5,5 +5,10 @@
     "district": 8,
     "last_insp_date": "09/14/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "465 E Ellis St, Long Beach, CA 90805, USA",
+        "latitude": 33.8569463,
+        "longitude": -118.186941
+    },
     "start_date": "09/28/2016"
 }

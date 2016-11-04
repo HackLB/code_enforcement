@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": "03/30/2016",
     "last_insp_type": "Monitor",
+    "location": {
+        "address": "3605 E 7th St, Long Beach, CA 90804, USA",
+        "latitude": 33.7756489,
+        "longitude": -118.1499723
+    },
     "start_date": "03/30/2016"
 }

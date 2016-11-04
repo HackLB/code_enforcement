@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "11/01/2016",
     "last_insp_type": "Reinspection",
+    "location": {
+        "address": "1062 E 16th St, Long Beach, CA 90813, USA",
+        "latitude": 33.7869512,
+        "longitude": -118.1791822
+    },
     "start_date": "02/20/2009"
 }

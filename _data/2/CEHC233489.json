@@ -5,5 +5,10 @@
     "district": 2,
     "last_insp_date": "10/21/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "1007 E Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.766424,
+        "longitude": -118.180503
+    },
     "start_date": "07/25/2016"
 }

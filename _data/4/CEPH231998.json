@@ -5,5 +5,10 @@
     "district": 4,
     "last_insp_date": "06/08/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "3231 E 10th St, Long Beach, CA 90804, USA",
+        "latitude": 33.7791384,
+        "longitude": -118.1539558
+    },
     "start_date": "06/06/2016"
 }

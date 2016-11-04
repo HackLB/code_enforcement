@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "10/21/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "1526 Magnolia Ave, Long Beach, CA 90813, USA",
+        "latitude": 33.7867924,
+        "longitude": -118.197833
+    },
     "start_date": "09/21/2016"
 }

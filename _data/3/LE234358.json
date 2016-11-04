@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": "08/29/2016",
     "last_insp_type": "Monitor",
+    "location": {
+        "address": "219 Belmont Ave, Long Beach, CA 90803, USA",
+        "latitude": 33.7637534,
+        "longitude": -118.1451304
+    },
     "start_date": "08/25/2016"
 }

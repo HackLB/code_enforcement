@@ -5,5 +5,10 @@
     "district": 2,
     "last_insp_date": "10/04/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "2043 Broadway, Santa Monica, CA 90404, USA",
+        "latitude": 34.0277859,
+        "longitude": -118.4779504
+    },
     "start_date": "08/29/2016"
 }

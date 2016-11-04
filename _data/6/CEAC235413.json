@@ -5,5 +5,10 @@
     "district": 6,
     "last_insp_date": "10/18/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "1732 E 15th St, Long Beach, CA 90813, USA",
+        "latitude": 33.7860912,
+        "longitude": -118.1702855
+    },
     "start_date": "10/07/2016"
 }

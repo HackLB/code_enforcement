@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "10/19/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "6539 Cherry Ave, Long Beach, CA 90805, USA",
+        "latitude": 33.873565,
+        "longitude": -118.16901
+    },
     "start_date": "10/20/2016"
 }

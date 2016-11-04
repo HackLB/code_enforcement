@@ -5,5 +5,10 @@
     "district": 2,
     "last_insp_date": "10/31/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "267 Wisconsin Ave, Long Beach, CA 90803, USA",
+        "latitude": 33.767636,
+        "longitude": -118.161917
+    },
     "start_date": "10/13/2016"
 }

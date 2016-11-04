@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "35 54th Pl, Long Beach, CA 90803, USA",
+        "latitude": 33.7544005,
+        "longitude": -118.1321057
+    },
     "start_date": "06/27/2016"
 }

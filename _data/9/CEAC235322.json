@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "09/28/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "5842 Lemon Ave, Long Beach, CA 90805, USA",
+        "latitude": 33.8607959,
+        "longitude": -118.1788713
+    },
     "start_date": "10/04/2016"
 }

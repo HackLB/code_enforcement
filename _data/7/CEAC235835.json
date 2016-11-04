@@ -5,5 +5,10 @@
     "district": 7,
     "last_insp_date": "10/25/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "2290 Golden Ave, Long Beach, CA 90806, USA",
+        "latitude": 33.798844,
+        "longitude": -118.202091
+    },
     "start_date": "10/25/2016"
 }

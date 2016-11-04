@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": "11/01/2016",
     "last_insp_type": "Reinspection",
+    "location": {
+        "address": "248 Mira Mar Ave, Long Beach, CA 90803, USA",
+        "latitude": 33.76598,
+        "longitude": -118.1467651
+    },
     "start_date": "07/08/2014"
 }

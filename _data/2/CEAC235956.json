@@ -5,5 +5,10 @@
     "district": 2,
     "last_insp_date": "10/24/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1168 E 4th St, Long Beach, CA 90802, USA",
+        "latitude": 33.771478,
+        "longitude": -118.176579
+    },
     "start_date": "10/31/2016"
 }

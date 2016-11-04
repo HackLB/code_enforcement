@@ -5,5 +5,10 @@
     "district": 8,
     "last_insp_date": "09/14/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "484 E Louise St, Long Beach, CA 90805, USA",
+        "latitude": 33.854899,
+        "longitude": -118.186534
+    },
     "start_date": "09/28/2016"
 }

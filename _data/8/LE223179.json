@@ -5,5 +5,10 @@
     "district": 8,
     "last_insp_date": "03/03/2016",
     "last_insp_type": "Monitor",
+    "location": {
+        "address": "5543 Atlantic Ave, Long Beach, CA 90805, USA",
+        "latitude": 33.8570865,
+        "longitude": -118.1851622
+    },
     "start_date": "08/21/2015"
 }

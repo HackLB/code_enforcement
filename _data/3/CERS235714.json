@@ -5,5 +5,10 @@
     "district": 3,
     "last_insp_date": null,
     "last_insp_type": null,
+    "location": {
+        "address": "601 Mira Mar Ave, Long Beach, CA 90814, USA",
+        "latitude": 33.7736588,
+        "longitude": -118.1471779
+    },
     "start_date": "10/19/2016"
 }

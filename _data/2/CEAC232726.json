@@ -5,5 +5,10 @@
     "district": 2,
     "last_insp_date": "10/11/2016",
     "last_insp_type": "Pre-Citation Inspection",
+    "location": {
+        "address": "792 Gladys Ave, Long Beach, CA 90804, USA",
+        "latitude": 33.777,
+        "longitude": -118.157592
+    },
     "start_date": "06/28/2016"
 }

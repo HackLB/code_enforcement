@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "09/12/2016",
     "last_insp_type": "Reinspection",
+    "location": {
+        "address": "550 Elm Ave, Long Beach, CA 90802, USA",
+        "latitude": 33.7738707,
+        "longitude": -118.1873098
+    },
     "start_date": "08/29/2016"
 }

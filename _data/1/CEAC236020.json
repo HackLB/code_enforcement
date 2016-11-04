@@ -5,5 +5,10 @@
     "district": 1,
     "last_insp_date": "11/02/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1776 Locust Ave, Long Beach, CA 90813, USA",
+        "latitude": 33.789437,
+        "longitude": -118.190772
+    },
     "start_date": "11/02/2016"
 }

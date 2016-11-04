@@ -5,5 +5,10 @@
     "district": 9,
     "last_insp_date": "10/12/2016",
     "last_insp_type": "Follow-up Site Inspection - 1st Interim",
+    "location": {
+        "address": "6370 N Paramount Blvd, Long Beach, CA 90805, USA",
+        "latitude": 33.870544,
+        "longitude": -118.159625
+    },
     "start_date": "06/24/2016"
 }

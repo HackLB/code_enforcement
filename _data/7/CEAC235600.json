@@ -5,5 +5,10 @@
     "district": 7,
     "last_insp_date": "10/11/2016",
     "last_insp_type": "Initial Inspection",
+    "location": {
+        "address": "1925 San Francisco Ave, Long Beach, CA 90806, USA",
+        "latitude": 33.7922523,
+        "longitude": -118.2038
+    },
     "start_date": "10/14/2016"
 }
