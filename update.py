@@ -3,13 +3,35 @@ import os, re, sys
 import requests
 from pipes import quote
 from bs4 import BeautifulSoup
-import shutil
 from pprint import pprint
 import simplejson as json
+import urllib.parse
+
+from geopy.geocoders import Nominatim, GoogleV3
+from geopy.exc import GeocoderTimedOut
+
+
+with open('../secrets.json') as f:    
+    secrets = json.load(f)
+
+geolocator = GoogleV3(api_key=secrets['google_api_key'])
 
 
 url_template = 'http://sapphire.longbeach.gov/HPLandMgmt/CE/ActiveCodeEnforcementCases{}.asp'
 districts = 9
+
+
+def geocode(address):
+    try:
+        location = geolocator.geocode(address, timeout=2)
+        if location:
+            data = {"latitude": location.latitude, "longitude": location.longitude, "address": location.address}
+            print(data)
+            return data
+        else:
+            return None
+    except GeocoderTimedOut:
+        return geocode(address)
 
 
 def cleanup(label):
@@ -62,6 +84,19 @@ def save_records(records):
             json.dump(record, f, indent = 4, ensure_ascii=False, sort_keys = True)
 
 
+def clean_records(records):
+    """
+    Saves records to invidual JSON files. Files are saved into a
+    different directory for each city district, and are named based
+    on the code enforcement case number.
+    """
+    print('Cleaning code enforcement data...')
+    for record in records:
+        address = '{}, Long Beach, CA'.format(record['address'])
+        location = geocode(address)
+        record['location'] = location
+    return records
+
 
 if __name__ == "__main__":
     repo_path = os.path.dirname(os.path.realpath(sys.argv[0])) # Path to current directory
@@ -70,5 +105,6 @@ if __name__ == "__main__":
 
     for district in range(1, districts + 1): # Loop through districts 1 through...
         records = scrape_records(district)   # Scrape the records for each district...
+        records = clean_records(records)   # Scrape the records for each district...
         save_records(records)                # Save the scraped records to JSON files...
 
